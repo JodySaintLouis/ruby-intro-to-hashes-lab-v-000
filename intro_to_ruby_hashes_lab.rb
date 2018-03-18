@@ -20,7 +20,7 @@ def monopoly
 									{:reading_railroad =>
 									 :pennsylvania_railroad =>
 									 :
-									 :
+									 :shortline =>
 									}
 
 		}
