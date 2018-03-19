@@ -19,7 +19,7 @@ def monopoly
 					:names =>
 									{:reading_railroad => {"mortgage_value" => "$100"},
 									 :pennsylvania_railroad => {"mortgage_value" => ""}
-									 :b_and_o_railroad => {}
+									 :b_and_o_railroad => {"mortgage_value" => ""}
 									 :shortline =>	{} }
 
 		}
