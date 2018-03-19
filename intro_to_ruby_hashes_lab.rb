@@ -7,8 +7,7 @@ new_hash = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-
-
+monopoly = {}
 end
 
 def monopoly_with_second_tier
